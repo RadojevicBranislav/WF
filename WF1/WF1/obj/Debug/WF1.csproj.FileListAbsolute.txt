@@ -1,0 +1,14 @@
+C:\Users\Windows User\source\repos\WF1\WF1\bin\Debug\WF1.exe.config
+C:\Users\Windows User\source\repos\WF1\WF1\bin\Debug\WF1.exe
+C:\Users\Windows User\source\repos\WF1\WF1\bin\Debug\WF1.pdb
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.csproj.AssemblyReference.cache
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.Form1.resources
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.Properties.Resources.resources
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.csproj.GenerateResource.cache
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.csproj.CoreCompileInputs.cache
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.exe
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.pdb
+C:\Users\Windows User\source\repos\WF1\WF1\bin\Debug\DataLayer.dll
+C:\Users\Windows User\source\repos\WF1\WF1\bin\Debug\DataLayer.pdb
+C:\Users\Windows User\source\repos\WF1\WF1\obj\Debug\WF1.csproj.CopyComplete
